@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531317452378",
+    "project_id": "ccshhaattaapppp",
+    "storage_bucket": "ccshhaattaapppp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531317452378:android:9b5790e918feb041a53263",
+        "android_client_info": {
+          "package_name": "com.example.chat_app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZEbHeMosYqZRDWrgbGrPH-aUvOHMaU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
